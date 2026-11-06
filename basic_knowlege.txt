@@ -1,0 +1,3 @@
+what is Qubit?
+
+this is also known as the quantum bit, which differnces from the traditional bit that is used in phones and computer
