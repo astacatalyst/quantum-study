@@ -1,3 +1,11 @@
 what is Qubit?
 
-this is also known as the quantum bit, which differnces from the traditional bit that is used in phones and computer
+this is also known as the quantum bit, which differnces from the traditional bit that is used in 
+phones and computer
+
+trditional bit -> 0,1 
+where as for the qubit -> 01 combined together in one 
+ in simple terms it is told as; the computer process the both 'yes' and 'no' at the same time rather than
+ chossing one single path as the traditional bit done!
+
+ 
